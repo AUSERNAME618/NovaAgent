@@ -38,7 +38,7 @@ fallthrough = true
 [[d1_databases]]
 binding = "DB"
 database_name = "nova-db"
-database_id = "00000000-0000-0000-0000-000000000000"
+database_id = "079b1508-d1e5-454f-9b8a-29579ca81f6b"
 
 # ── R2 (optional, recommended) ────────────────────────────────────────────────
 # Media blobs (generated images, voice notes, uploads) default to the D1-backed
